@@ -1,10 +1,10 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: The Future Institute
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Future-Directed Intelligence -  Learning for the Future. 
+    <br>Collectively understand, augment, and engineer natural learning and intelligence!
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,37 +14,31 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: The future of learning for the future!
+    text: The mission of this institute is to integrate disparate approaches to studying intelligence—both bottom-up and top-down, learned and pre-specified effects, computational, quantitative, biological, and neuroscientific—in order to expand our ability to understand and engineer intelligent systems.
     actions:
       - title: Get Started!
         url: '#page-top'
         class: btn-light
 
-  - type: services.html
-    section_id: services
+  - type: niches.html
+    section_id: niches
     #background_style: bg-info
-    title: At Your Service
+    title: Components of Prospective Learning
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: Continual Learning
+        text: The ability to learn new memories, skills, and abilities without catastrophically forgetting old ones. Ideally leveraging new experiences to improve upon both previously acquired skills (backward transfer) and potential future ones.
+        icon: fa-charging-station text-info
+        # url: 
+      - title: Curiosity
+        text: The drive to gather information for the purposes of increasing potential future rewards.
+        icon: fa-brain
+      - title: Causality 
+        text: The ability to learn causal, rather than merely associational, relationships; that is, understanding how any particular intervention changes the likelihood of any particular outcome.
+        icon: fa-network-wired text-info
+      - title: Constraints
+        text: Hard or soft assumptions that render the search space of hypotheses either exponentially smaller, or exponentially easier to navigate.
+        icon: fa-dot-circle
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -81,41 +75,34 @@ sections:
 
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: "Prospective Learning: Back to the Future"
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Read!
+        url: https://https://arxiv.org/
         class: btn-light
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Our Team!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      - title: Joshua T. Vogelstein
+        text: Johns Hopkins University
+        image: https://www.bme.jhu.edu/wp-content/uploads/2019/10/Josh-Vogelstein-600x600.jpg
+        #assets/img/members/person1.jpg
+        url: 'https://jovo.me/'
+      - title: Leyla Isik
+        text: Johns Hopkins University.
+        image: https://krieger.jhu.edu/cogsci/wp-content/uploads/sites/70/2018/05/Isik_headshot_crop.jpg
+        url: 'https://cogsci.jhu.edu/directory/leyla-isik/'
+      - title: Timothy Verstynen
+        text: Carnegie Mellon University
+        image: https://www.cmu.edu/dietrich/psychology/images/directory/verstynen800x800.jpg
+        url: 'https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/verstynen-timothy.html'
+      - title: Konrad P. Kording
+        text: University of Pennsylvania
+        image: https://directory.seas.upenn.edu/wp-content/uploads/2020/03/kording-konrad.jpg
+        url: 'http://kordinglab.com/'
 
   - type: timeline.html
     section_id: timeline
@@ -123,33 +110,35 @@ sections:
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/portfolio/thumbnails/start.jpeg
         title: >+
-          2017-2018
+          10/2021
           **Humble Beginnings**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
+          We begun with dedicated group of people willing to work hard to realize the mission of this institute!
+      - image: assets/img/portfolio/thumbnails/paper.jpeg
         title: >+
-          November 2019
-          An Coaching started
+          01/2022
+          **Paper published**
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
-
+          We published our 'Prospective Learning: Back to the Future' paper!
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
+    logos:
+      - title: Johns Hopkins University
+        image: assets/img/logos/jhu_logo.png
+      - title: University of Pennsylvania
+        image: assets/img/logos/upenn_logo.png
+      - title: Carnegie Mellon University
+        image: assets/img/logos/cmu_logo.png  
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: '#'
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
@@ -157,6 +146,10 @@ sections:
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
+      url: '#'
+    - title: GitHub
+      icon_type: fab
+      icon: fa-github
       url: '#'
 
 ---
