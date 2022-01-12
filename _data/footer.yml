@@ -1,5 +1,5 @@
-copyright: "&copy; The Future Institute"
-# links:
-#   - text: Creative
-#     url: 'https://startbootstrap.com/themes/creative/'
-#     new_window: true
+copyright: "&copy; 2022"
+links:
+  - text: The Future Institute
+    url: "#"
+    new_window: false
