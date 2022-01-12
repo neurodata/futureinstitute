@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: The Future Institute
+  title: Future Institute
   text: >
     Future-Directed Intelligence -  Learning for the Future. 
     <br>Collectively understand, augment, and engineer natural learning and intelligence!
