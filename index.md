@@ -93,7 +93,7 @@ sections:
         url: 'https://jovo.me/'
       - title: Leyla Isik
         text: Johns Hopkins University.
-        image: https://krieger.jhu.edu/cogsci/wp-content/uploads/sites/70/2018/05/Isik_headshot_crop.jpg
+        image: assets/img/members/leyla.jpg
         url: 'https://cogsci.jhu.edu/directory/leyla-isik/'
       - title: Timothy Verstynen
         text: Carnegie Mellon University
