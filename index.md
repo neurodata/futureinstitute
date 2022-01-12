@@ -45,33 +45,25 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Learning Salon
+        text: The Learning Salon is a weekly forum in which we explore bridges and contentions in biological and artificial learning.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+        icon: learning_salon.jpeg
+        url: 'https://www.learningsalon.ai/'
+      - title: Neuromatch Academy
+        text: Neuromatch Academy aims to introduce traditional and emerging tools of computational neuroscience and deep learning to trainees with an emphasis on theory and model building.
+        icon: neuromatch_academy.jpeg
+        url: 'https://academy.neuromatch.io/home'
+      - title: Neuromatch Conference
+        text: A conference for the computational neuroscience community.
+        icon: neuromatch_conf.jpeg
+        url: 'https://conference.neuromatch.io/'
+      - title: NeuroData Open Connectome Project
+        text: Working together with neuro experimentalists to discover fundamental principles governing the relationship between mind and brain.
+        icon: neurodata_ocp.jpeg
+        url: 'https://neurodata.io/project/ocp/'
 
   - type: aside.html
     section_id: aside
