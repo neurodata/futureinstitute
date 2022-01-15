@@ -3,8 +3,8 @@ layout: home
 header:
   title: Future Institute
   text: >
-    Future-Directed Intelligence -  Learning for the Future. 
-    <br>Collectively understand, augment, and engineer natural learning and intelligence!
+    Learning for the Future. 
+    <br>Collectively explain, augment, and engineer natural learning and intelligence!
   action: # action button is optional
     label: Find Out More
     url: '#about'
