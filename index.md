@@ -70,7 +70,7 @@ sections:
     title: "Prospective Learning: Back to the Future"
     actions:
       - title: Read!
-        url: https://https://arxiv.org/
+        url: https://arxiv.org/abs/2201.07372
         class: btn-light
 
   - type: members.html
